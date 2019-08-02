@@ -1,0 +1,11 @@
+D:\Personal Files\WWSI\jipp1\MGame\MGame\bin\Debug\MGame.exe.config
+D:\Personal Files\WWSI\jipp1\MGame\MGame\bin\Debug\MGame.exe
+D:\Personal Files\WWSI\jipp1\MGame\MGame\bin\Debug\MGame.pdb
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.csprojAssemblyReference.cache
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.Form1.resources
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.Properties.Resources.resources
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.csproj.GenerateResource.cache
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.csproj.CoreCompileInputs.cache
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.exe
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.pdb
+D:\Personal Files\WWSI\jipp1\MGame\MGame\obj\Debug\MGame.Form2.resources
